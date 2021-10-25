@@ -1,4 +1,4 @@
-# Discover-Undervalued-and-Overvalued-Stock-with-Python
+# Discover-Undervalued-and-Overvalued-Stock
 
 Value investing, an investment strategy that originates from Benjamin Graham and Warren Buffet, picks stock based on its ‘intrinsic value’. Investors who follow this approach calculate ideal stock price with the analysis of financial ratios, internal, and other external factors; and compare it to current stock price. They invest 'undervalued stock', whose ideal price is higher than current price, while divest ‘overvalued stock’, whose ideal price is lower. However, increasing numbers of companies’ disclosures and news make manually reviewing all related information impossible. This project aims to automate all stock selection processes with unsupervised machine learning models. Our analysis could generally define both overvalue and undervalue stocks with data analytics approach.
 
